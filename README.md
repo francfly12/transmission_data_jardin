@@ -4,6 +4,10 @@ Transmetteur de puissance photovoltaïque par radio HC12. Un Arduino **Mega 2560
 
 Projet frère de [Albi](https://github.com/francfly12/Albi) — mêmes composants et mêmes leçons apprises.
 
+## Photos
+
+![Émetteur de jardin — Arduino Mega 2560, 2 PZEM-004T et HC12 dans leur boîtier](images/emetteur.jpg)
+
 ## Mesures
 
 | Voie | Bloc | Puissance approx. |
