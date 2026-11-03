@@ -6,7 +6,7 @@ Projet frère de [Albi](https://github.com/francfly12/Albi) — mêmes composant
 
 ## Photos
 
-![Émetteur de jardin — Arduino Mega 2560, 2 PZEM-004T et HC12 dans leur boîtier](images/emetteur.jpg)
+![Émetteur de jardin — Arduino Mega 2560, 2 PZEM-004T et HC12 dans leur boîtier](transmetteur-jardin/emetteur.jpg)
 
 ## Mesures
 
